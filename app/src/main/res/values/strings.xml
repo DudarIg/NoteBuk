@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Заметки на полях...</string>
+    <string name="ed_title">Заголовок</string>
+    <string name="ed_text">Текст заметки</string>
+</resources>
